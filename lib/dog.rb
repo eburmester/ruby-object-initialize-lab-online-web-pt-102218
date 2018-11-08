@@ -4,6 +4,7 @@ class Dog
     @breed = breed_type
     if breed_type == nil 
       puts "Mutt"
+    end 
   end
   
 end
